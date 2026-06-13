@@ -5,7 +5,8 @@
   "main": "convert.js",
   "scripts": {
     "convert": "node convert.js",
-    "dev": "npx -y serve -l 8080 --cors"
+    "dev": "npx -y serve -l 8080 --cors",
+    "sync": "node ../the-boys/scripts/sync-placeholders.js"
   },
   "dependencies": {
     "sharp": "^0.33.2"
