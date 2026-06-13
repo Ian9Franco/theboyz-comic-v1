@@ -1,0 +1,202 @@
+{
+  "_readme": "Para cada página, definí las viñetas con focusY (0.0=arriba, 1.0=abajo) y los diálogos. style puede ser 'normal' (globo), 'caption' (caja narrador) o 'thought' (pensamiento). Si dialogue está vacío, el scroll solo frena un momento.",
+  "pages": {
+    "1": {
+      "panels": [
+        {
+          "focusY": 0.16,
+          "dialogue": [
+            { "text": "Che, Sigo sin entender... ¿Qué carajo hacía la cara de el Mati metida en la pantalla de ese casino?", "posX": 50, "posY": 25, "tailX": 60, "tailY": 15, "fontSize": 10, "width": 120, "borderRadius": 18, "tailWidth": 6, "tailCurvature": -22, "size": "small", "customColor": "#1c1c1c" },
+            { "text": "Los Ángeles. Otra realidad, The boyz", "style": "caption", "posX": 50, "posY": 0, "size": "small", "customBg": "#050000", "customColor": "#fff700", "textColor": "#ffffff" },
+            { "text": "Qué sé yo, Julián. Estaba toda rota, llena de estática. Para mí que el hdp nos hackeó desde Buenos Aires... o se volvió loco.", "size": "small", "posX": 100, "posY": 5, "tailX": 80, "tailY": 10, "tailWidth": 14, "tailCurvature": -22, "width": 120, "fontSize": 10, "borderRadius": 13 }
+          ],
+          "hideUntilReached": true
+        },
+        {
+          "focusY": 0.45,
+          "dialogue": [
+            { "text": "Yo todavía no caigo en que estemos vivos, che. Cruzar el mapa para buscar a este cavernícola en España...", "size": "small", "posX": 5, "posY": 30, "tailX": 25, "tailY": 35, "tailWidth": 6, "tailCurvature": -22, "width": 135, "fontSize": 8, "borderRadius": 6, "customColor": "#1c1c1c" },
+            { "text": "...¡para que terminemos en un avión de la Segunda Guerra que escupía aceite! ¡Nos tuvimos que tirar en paracaídas arriba de Vietnam, Julián! ¡De Vietnam!", "size": "small", "posX": 0, "posY": 45, "tailX": 10, "tailY": 30, "tailWidth": 10, "tailCurvature": 0, "width": 220, "fontSize": 9, "borderRadius": 18 },
+            { "text": "Pará un poco, histriónico, si el dato de Mati y Volvo desde la base era posta. La escotilla en el piso estaba donde dijeron. Y vos solo.. no la abrías ni en pedo.", "size": "small", "posX": 90, "posY": 25, "tailX": 75, "tailY": 40, "tailWidth": 12, "tailCurvature": -22, "width": 150, "fontSize": 10, "borderRadius": 19 },
+            { "text": "Lo que no te conté, Juli, es que la selva estaba llena de milicos corruptos. Me tuve que papear a medio cuartel a mano limpia para que no nos dejen como coladores.", "size": "small", "posX": 105, "posY": 35, "tailX": 85, "tailY": 25, "tailWidth": 16, "tailCurvature": 66, "width": 185, "fontSize": 9, "borderRadius": 14, "linkedTo": 2 },
+            { "text": "Igual... hay algo raro. Siento los brazos pesadísimos desde que salimos de ese portal. Como si tuviera electricidad estática corriendo abajo de la piel.", "size": "small", "posX": 90, "posY": 45, "tailX": 105, "tailY": 35, "tailWidth": 6, "tailCurvature": -38, "width": 230, "fontSize": 9, "borderRadius": 18, "linkedTo": 3 }
+          ]
+        },
+        {
+          "focusY": 0.59,
+          "dialogue": [
+            { "text": "(¿Qué es ese zumbido en la calle? El quilombo de la avenida... las bocinas... de golpe todo me retumba adentro de la cabeza...)", "style": "thought", "size": "small", "posX": 0, "posY": 55, "tailX": 25, "tailY": 60, "tailWidth": 6, "tailCurvature": -22, "width": 135, "fontSize": 8, "borderRadius": 17 },
+            { "text": "Bzzzzzzzz...", "style": "caption", "size": "small", "posX": 40, "posY": 65, "tailX": 40, "tailY": 60, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 9, "borderRadius": 18, "customColor": "#000000", "customBg": "#f5e642" },
+            { "text": "Ya estaba armando el testamento mientras ustedes pleotudeaban. \nQué querés que te diga... me dio un toque de ternura verles las caras de asustados.", "size": "small", "posX": 110, "posY": 65, "tailX": 95, "tailY": 55, "tailWidth": 16, "tailCurvature": 20, "width": 330, "fontSize": 8, "borderRadius": 17 },
+            { "text": "Sí, divino el laberinto. Estuve semanas encerrado en ese pasillo amarillo inmundo con un zumbido sordo que me taladraba el cerebro.", "size": "small", "posX": 100, "posY": 55, "tailX": 75, "tailY": 60, "tailWidth": 6, "tailCurvature": -22, "width": 205, "fontSize": 8, "borderRadius": 9 }
+          ]
+        },
+        {
+          "focusY": 0.74,
+          "dialogue": [
+            { "text": "Que decissss, estabas llorando del miedo", "size": "small", "posX": 0, "posY": 70, "tailX": 25, "tailY": 75, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 10, "borderRadius": 18 },
+            { "text": "¡Si no fuera por esa voz en el portal, (que para mí era la de Jaz) gritándonos que saltemos, seguíamos ahí adentro! ", "size": "small", "posX": 0, "posY": 80, "tailX": 10, "tailY": 70, "tailWidth": 6, "tailCurvature": -22, "width": 245, "fontSize": 9, "borderRadius": 16 },
+            { "text": "¿¿Que dice este pelotudo", "style": "thought", "size": "small", "posX": 100, "posY": 75, "tailX": 75, "tailY": 75, "tailWidth": 20, "tailCurvature": -68, "width": 290, "fontSize": 11, "borderRadius": 6 }
+          ]
+        },
+        {
+          "focusY": 0.91,
+          "dialogue": [
+            { "text": "Es una demencia total.\nPasamos del infierno de los Backrooms a terminar metidos en un casino clavándome el mejor café de mi vida.", "size": "small", "posX": 60, "posY": 100, "tailX": 40, "tailY": 90, "tailWidth": 4, "tailCurvature": 74, "width": 305, "fontSize": 11, "borderRadius": 18 },
+            { "text": "Che... cállense un segundo.", "size": "small", "posX": 0, "posY": 85, "tailX": 20, "tailY": 85, "tailWidth": 6, "tailCurvature": -22, "width": 195, "fontSize": 9, "borderRadius": 18 },
+            { "text": "¿Soy la única que lo siente? Las ventanas... el cielo... el mundo entero está vibrando.", "size": "small", "posX": -5, "posY": 95, "tailX": 0, "tailY": 85, "tailWidth": 14, "tailCurvature": -100, "width": 125, "fontSize": 10, "borderRadius": 18 }
+          ]
+        }
+      ]
+    },
+    "2": {
+      "panels": [
+        {
+          "focusY": 0.15,
+          "dialogue": [
+            { "text": "¡Te juro que cuando Julián sacó el dos y el cinco pensé que nos linchaban ahí mismo!", "size": "small", "posX": 15, "posY": 30, "tailX": 20, "tailY": 15, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 9, "borderRadius": 18 },
+            { "text": "Jajaja, ¡les dio un ACV del cagazo que tenían! No sabían dónde meterse", "size": "small", "posX": 35, "posY": 25, "tailX": 30, "tailY": 15, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 9, "borderRadius": 18 },
+            { "text": "(No es el tráfico. No son las bocinas... Es adentro de las paredes. Como si el aire tuviera dientes...)", "style": "thought", "size": "small", "posX": 95, "posY": 0, "tailX": 70, "tailY": 10, "tailWidth": 26, "tailCurvature": -82, "width": 135, "fontSize": 8, "borderRadius": 5 }
+          ]
+        },
+        {
+          "focusY": 0.45,
+          "dialogue": [
+            { "text": "(Por favor, díganme que me volví loca de golpe...)", "style": "thought", "size": "small", "posX": 10, "posY": 45, "tailX": 40, "tailY": 40, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 9, "borderRadius": 18 }
+          ]
+        },
+        {
+          "focusY": 0.63,
+          "dialogue": [
+            { "text": "¡GLITCH-TZZZZ!", "style": "sfx", "size": "small", "posX": 75, "posY": 60, "tailX": 55, "tailY": 65, "tailWidth": 8, "tailCurvature": -56, "width": 255, "fontSize": 18, "borderRadius": 18, "fontFamily": "marker", "customColor": "#ff149d", "textColor": "#3c39d5" }
+          ],
+          "hideUntilReached": true,
+          "duration": 2,
+          "zoomRects": [
+            { "x": 0, "y": 51, "w": 100, "h": 21 }
+          ]
+        },
+        {
+          "focusY": 0.9,
+          "dialogue": [
+            { "text": "¡Jajaja, olvidate! ¡Vos te llenaste de guita y yo casi salgo de ahí casado con tres gallegas! ¡Una mística total!", "size": "small", "posX": 45, "posY": 95, "tailX": 50, "tailY": 80, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 9, "borderRadius": 18 },
+            { "text": "¿Viste, Ian? Al final sos re maldito vos", "size": "small", "posX": 5, "posY": 80, "tailX": 40, "tailY": 80, "tailWidth": 6, "tailCurvature": -84, "width": 120, "fontSize": 9, "borderRadius": 16 },
+            { "text": "son re wachines", "size": "small", "posX": 15, "posY": 95, "tailX": 35, "tailY": 85, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 9, "borderRadius": 18 },
+            { "text": "¿Qué? Sofi, pará, ¿qué te pas--?", "size": "small", "posX": 100, "posY": 95, "tailX": 75, "tailY": 85, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 11, "borderRadius": 18, "customBg": "#f5e642", "customColor": "#000000" }
+          ]
+        }
+      ]
+    },
+    "3": {
+      "panels": [
+        {
+          "focusY": 0.26,
+          "dialogue": [
+            { "text": "¡¿QUÉ CARAJO ES ESO?! ¡¿QUÉ ESTÁ CAYENDO DEL CIELO?!", "style": "scream", "size": "small", "posX": 35, "posY": 45, "tailX": 25, "tailY": 35, "tailWidth": 30, "tailCurvature": -22, "width": 115, "fontSize": 13, "borderRadius": 9 },
+            { "text": "¡¡¡CRACK-TZZZZZZZZ!!!", "style": "sfx", "size": "small", "posX": 90, "posY": 30, "tailX": 50, "tailY": 43, "tailWidth": 6, "tailCurvature": -22, "width": 220, "fontSize": 14, "borderRadius": 18, "customColor": "#05070b", "textColor": "#7422d8" },
+            { "text": "Advertencia: Estructura física comprometida. Colapso de frecuencia en curso.", "style": "caption", "size": "small", "posX": 100, "posY": 15, "tailX": 50, "tailY": 43, "tailWidth": 6, "tailCurvature": -22, "width": 175, "fontSize": 8, "borderRadius": 0 }
+          ]
+        },
+        {
+          "focusY": 0.73,
+          "dialogue": [
+            { "text": "Chicos! ¡Miren el cielo! ¡No es un satélite, se nos viene encima!", "size": "small", "posX": 10, "posY": 70, "tailX": 25, "tailY": 65, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 9, "borderRadius": 18 },
+            { "text": "¡¿Pero qué carajo...?! ¡Se cortó la luz de golpe!", "speaker": "Julián", "size": "small", "posX": 15, "posY": 55, "tailX": 0, "tailY": 60, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 9, "borderRadius": 18 },
+            { "text": "¡¡¡SHLAACK!!!", "size": "small", "posX": 100, "posY": 65, "tailX": 90, "tailY": 75, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 9, "borderRadius": 18, "fontFamily": "bungee", "customBg": "#0e0d0c", "customColor": "#000000", "textColor": "#ffffff" },
+            { "text": "¡¿Qué satélite?! ¡Es un planeta entero, boluda! ¡Está distorsionando la gravedad!", "size": "small", "posX": 55, "posY": 90, "tailX": 70, "tailY": 70, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 9, "borderRadius": 18 }
+          ],
+          "zoomRects": [
+            { "x": 0, "y": 50, "w": 100, "h": 50 }
+          ],
+          "duration": 4,
+          "hideUntilReached": true
+        }
+      ]
+    },
+    "4": {
+      "panels": [
+        {
+          "focusY": 0.15,
+          "dialogue": [
+            { "text": "¡¿PERO QUÉ CARAJO ES ESO?! ¡¿QUÉ MIERDA ESTÁ PASANDO CON EL CIELO?!", "style": "scream", "size": "small", "posX": 5, "posY": 20, "tailX": 10, "tailY": 35, "tailWidth": 24, "tailCurvature": 100, "width": 120, "fontSize": 10, "borderRadius": 19 },
+            { "text": "No, no, no... díganme que estamos drogados o traumados por los Backrooms.", "size": "small", "posX": 45, "posY": 35, "tailX": 55, "tailY": 15, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 9, "borderRadius": 18 },
+            { "text": "¡¿Qué droga boludo?!", "size": "small", "posX": 70, "posY": 45, "tailX": 75, "tailY": 25, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 9, "borderRadius": 18 },
+            { "text": "¡No, no, no... bóludo, miren eso! ¡¿Qué carajo es?! ¡¿De dónde salió esa masa?!  ", "size": "small", "posX": 85, "posY": 50, "tailX": 85, "tailY": 20, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 9, "borderRadius": 18 },
+            { "text": "¡Se nos viene encima! ¡Un planeta entero va a chocar contra la ciudad! ¡Nos vamos a morir!", "size": "small", "posX": 60, "posY": 40, "tailX": 65, "tailY": 25, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 9, "borderRadius": 18, "fontFamily": "luckiest" },
+            { "text": " ¡Múevanse ya para adentro!  ", "size": "small", "posX": 65, "posY": 5, "tailX": 60, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 9, "borderRadius": 18, "fontFamily": "bungee" }
+          ]
+        },
+        {
+          "focusY": 0.76,
+          "dialogue": [],
+          "zoomRects": [
+            { "x": 0, "y": 59, "w": 100, "h": 41 }
+          ],
+          "duration": 2.5
+        }
+      ]
+    },
+    "6": {
+      "panels": [
+        {
+          "focusY": 0.11,
+          "dialogue": [
+            { "text": "(No puedo mover las piernas... Es el fin. Es el maldito fin del mundo...)", "style": "whisper", "size": "small", "posX": 90, "posY": 15, "tailWidth": 6, "tailCurvature": -22, "width": 115, "fontSize": 11, "borderRadius": 18, "tail": "left" }
+          ]
+        },
+        {
+          "focusY": 0.32,
+          "dialogue": [
+            { "text": "¡Che, qué carajo! ¡Mis fichas se están yendo para arriba! ¡La gravedad se rompió por completo!", "speaker": "Julián", "size": "small", "posX": 85, "posY": 30, "tailX": 110, "tailY": 30, "tailWidth": 6, "tailCurvature": -22, "width": 155, "fontSize": 8, "borderRadius": 4 },
+            { "text": "¡¿A quién le importan tus fichas, enfermo?! ¡Se está levantando el piso!", "speaker": "Uandi", "size": "small", "posX": 80, "posY": 45, "tailX": 110, "tailY": 40, "tailWidth": 6, "tailCurvature": -22, "width": 170, "fontSize": 8, "borderRadius": 4 }
+          ]
+        },
+        {
+          "focusY": 0.53,
+          "dialogue": [
+            { "text": "¡¡¡CRRRRASH-SHHHH!!!", "style": "sfx", "size": "small", "posX": 95, "posY": 60, "tailX": 75, "tailY": 55, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 17, "borderRadius": 18, "fontFamily": "bangers", "textColor": "#ebd914" },
+            { "text": "¡SOFI, CUIDADO! ¡AGACHATE!", "size": "small", "posX": 55, "posY": 60, "tailX": 50, "tailY": 50, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 8, "borderRadius": 18 },
+            { "text": "¡¡¡IAN!!!  ", "size": "small", "posX": 5, "posY": 55, "tailX": 20, "tailY": 50, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 9, "borderRadius": 18 }
+          ],
+          "zoomRects": [
+            { "x": 1, "y": 44, "w": 100, "h": 20 }
+          ],
+          "duration": 2.5
+        },
+        {
+          "focusY": 0.8,
+          "dialogue": [
+            { "text": "¡¡¡BOOOOOMMMM-CRACK!!!", "style": "sfx", "size": "small", "posX": 20, "posY": 80, "tailX": 40, "tailY": 75, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 15, "borderRadius": 18, "textColor": "#db6b0f" },
+            { "text": "¡¡¡HIJO DE PUTA, SE VOLÓ EL TECHO!!! ¡¡¡NOS VA A TRAGAR EL CIELO!!!", "size": "small", "posX": 85, "posY": 70, "tailX": 80, "tailY": 85, "tailWidth": 4, "tailCurvature": -40, "width": 120, "fontSize": 8, "borderRadius": 18 }
+          ],
+          "zoomRects": [
+            { "x": 0, "y": 64, "w": 100, "h": 36 }
+          ],
+          "duration": 3
+        }
+      ]
+    },
+    "9": {
+      "panels": [
+        {
+          "focusY": 0.2,
+          "dialogue": [
+            { "text": "Es la única forma de que duerma en paz. Si se queda acá, no hay chance.", "speaker": "Ian", "posX": 35, "posY": 15, "tail": "bottom-right" }
+          ]
+        },
+        {
+          "focusY": 0.45,
+          "dialogue": [
+            { "text": "No sé... igual me da cosa dejarla sola.", "speaker": "Ian", "posX": 20, "posY": 40, "tail": "top-right" }
+          ]
+        },
+        {
+          "focusY": 0.7,
+          "dialogue": [
+            { "text": "Si vuelve a pasar, nos enteramos en un toque. Tranquilo.", "speaker": "Uandi", "posX": 65, "posY": 65 }
+          ]
+        }
+      ]
+    }
+  }
+}

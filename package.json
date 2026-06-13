@@ -1,0 +1,13 @@
+{
+  "name": "theboyz-comic-assets-converter",
+  "version": "1.0.0",
+  "description": "Convertidor de imágenes de cómics a formato optimizado WebP para CDN",
+  "main": "convert.js",
+  "scripts": {
+    "convert": "node convert.js",
+    "dev": "npx -y serve -l 8080 --cors"
+  },
+  "dependencies": {
+    "sharp": "^0.33.2"
+  }
+}
