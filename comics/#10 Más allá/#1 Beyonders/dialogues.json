@@ -930,8 +930,10 @@
         {
           "focusY": 0.34,
           "dialogue": [
-            { "text": "Primera lección humana: la servilleta.", "speaker": "Uandi", "size": "small", "posX": 20, "posY": 30, "tailX": 35, "tailY": 35, "tailWidth": 6, "tailCurvature": -22, "width": 156, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Soy un mutante arácnido, no un animal.", "speaker": "Peter", "size": "small", "posX": 75, "posY": 28, "tailX": 65, "tailY": 35, "tailWidth": 6, "tailCurvature": 22, "width": 156, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Un accidente en Parker industries", "speaker": "Uandi", "size": "small", "posX": 15, "posY": 25, "tailX": 45, "tailY": 30, "tailWidth": 6, "tailCurvature": -22, "width": 156, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Yo trabajaba para el equipo de las particulas gamma", "speaker": "Peter", "size": "small", "posX": 85, "posY": 25, "tailX": 65, "tailY": 35, "tailWidth": 6, "tailCurvature": 22, "width": 156, "fontSize": 8, "borderRadius": 18 },
+            { "text": "un día, descuide un tubo de ensayo, se me cayo en el brazo y no me di cuenta, es inoloro e incoloro", "size": "small", "posX": 5, "posY": 35, "tailX": 50, "tailY": 35, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Y una araña me pico justo donde cayo el aceite gamma. al aplastarla, si adn + la energia gamma se metieron en mi torrente sanguineo", "size": "small", "posX": 95, "posY": 35, "tailX": 70, "tailY": 35, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 25, "w": 100, "h": 18 }
@@ -940,8 +942,10 @@
         {
           "focusY": 0.53,
           "dialogue": [
-            { "text": "Hace dos horas quería llamar a emergencias.", "speaker": "Mati", "size": "small", "posX": 25, "posY": 46, "tailX": 35, "tailY": 53, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Hace dos horas vos gritabas. Los dos aprendimos.", "speaker": "Peter", "size": "small", "posX": 75, "posY": 46, "tailX": 65, "tailY": 53, "tailWidth": 6, "tailCurvature": 22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Pero no hay cura para esto?", "speaker": "Mati", "size": "small", "posX": 35, "posY": 40, "tailX": 30, "tailY": 55, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Estuve trabajando en eso, pero Norman cambio las politicas. Ya no admiten mutantes en el edificio", "speaker": "Peter", "size": "small", "posX": 105, "posY": 50, "tailX": 80, "tailY": 55, "tailWidth": 6, "tailCurvature": 22, "width": 160, "fontSize": 8, "borderRadius": 18 },
+            { "text": "a nosotros nos dejan entrar", "size": "small", "posX": 5, "posY": 50, "tailX": 20, "tailY": 55, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Si, nosotros tenemso algo de eso", "size": "small", "posX": 60, "posY": 40, "tailX": 50, "tailY": 50, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 43, "w": 100, "h": 20 }
@@ -950,8 +954,8 @@
         {
           "focusY": 0.715,
           "dialogue": [
-            { "text": "Es raro que me escuchen sin apuntarme con algo.", "speaker": "Peter", "size": "small", "posX": 25, "posY": 66, "tailX": 35, "tailY": 73, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Acá podés hablar. Aunque digas pavadas.", "speaker": "Uandi", "size": "small", "posX": 75, "posY": 66, "tailX": 65, "tailY": 73, "tailWidth": 6, "tailCurvature": 22, "width": 158, "fontSize": 8, "borderRadius": 18 }
+            { "text": "El se pone rojo y grande, y yo tengo rayos por los ojos", "speaker": "Peter", "size": "small", "posX": 30, "posY": 60, "tailX": 15, "tailY": 70, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Pero ustedes no son considerados mutantes, por que no es visible.\nYo no puedo ir a comprar pan sin que la gente entre en panico!", "speaker": "Uandi", "size": "small", "posX": 70, "posY": 60, "tailX": 50, "tailY": 70, "tailWidth": 6, "tailCurvature": 22, "width": 158, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 63, "w": 100, "h": 17 }
@@ -960,7 +964,10 @@
         {
           "focusY": 0.9,
           "dialogue": [
-            { "text": "Entonces empezaré con una importante: ¿queda otra porción?", "speaker": "Peter", "size": "small", "posX": 25, "posY": 83, "tailX": 35, "tailY": 90, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Pero bueno.. ", "speaker": "Peter", "size": "small", "posX": 95, "posY": 85, "tailX": 80, "tailY": 90, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Hace mucho que no hablo con personas ", "size": "small", "posX": 105, "posY": 90, "tailX": 75, "tailY": 90, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Donde pasas la noche?", "size": "small", "posX": 60, "posY": 80, "tailX": 50, "tailY": 90, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 8, "borderRadius": 18 },
+            { "text": "En la calle", "size": "small", "posX": 100, "posY": 95, "tailX": 75, "tailY": 90, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 80, "w": 100, "h": 20 }
@@ -973,9 +980,12 @@
         {
           "focusY": 0.2,
           "dialogue": [
-            { "text": "Podés quedarte en el sillón esta noche.", "speaker": "Mati", "size": "small", "posX": 25, "posY": 3, "tailX": 35, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 158, "fontSize": 8, "borderRadius": 18 },
-            { "text": "¿Sin jaula?", "speaker": "Peter", "size": "small", "posX": 75, "posY": 3, "tailX": 65, "tailY": 10, "tailWidth": 6, "tailCurvature": 22, "width": 102, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Sin jaula.", "speaker": "Mati", "size": "small", "posX": 25, "posY": 10, "tailX": 35, "tailY": 17, "tailWidth": 6, "tailCurvature": -22, "width": 100, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Podés quedarte en el sillón esta noche.", "speaker": "Mati", "size": "small", "posX": 35, "posY": 0, "tailX": 40, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 158, "fontSize": 8, "borderRadius": 18 },
+            { "text": "No no puedo aceptar", "speaker": "Mati", "size": "small", "posX": -5, "posY": 10, "tailX": 15, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 100, "fontSize": 8, "borderRadius": 18 },
+            { "text": "No podemos dejar que pases la noche con este frio", "speaker": "Peter", "size": "small", "posX": 70, "posY": 0, "tailX": 65, "tailY": 10, "tailWidth": 6, "tailCurvature": 22, "width": 102, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Quedate ", "size": "small", "posX": 50, "posY": 20, "tailX": 60, "tailY": 15, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Quedate amigo", "size": "small", "posX": 85, "posY": 0, "tailX": 75, "tailY": 15, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 8, "borderRadius": 18 },
+            { "text": "bueno.. muchas gracias", "size": "small", "posX": 105, "posY": 25, "tailX": 95, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 0, "w": 100, "h": 40 }
@@ -984,9 +994,9 @@
         {
           "focusY": 0.53,
           "dialogue": [
-            { "text": "Mañana vemos ropa, comida y cómo conseguirte un trabajo.", "speaker": "Uandi", "size": "small", "posX": 25, "posY": 43, "tailX": 35, "tailY": 50, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Puedo trepar paredes, rastrear olores y asustar personas.", "speaker": "Peter", "size": "small", "posX": 75, "posY": 43, "tailX": 65, "tailY": 50, "tailWidth": 6, "tailCurvature": 22, "width": 160, "fontSize": 8, "borderRadius": 18 },
-            { "text": "En esta ciudad, eso cuenta como currículum.", "speaker": "Mati", "size": "small", "posX": 25, "posY": 50, "tailX": 35, "tailY": 57, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Mañana vemos ropa, comida y cómo conseguirte un trabajo.", "speaker": "Uandi", "size": "small", "posX": 95, "posY": 40, "tailX": 80, "tailY": 45, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Puedo trepar paredes, rastrear olores y asustar personas.", "speaker": "Peter", "size": "small", "posX": 5, "posY": 60, "tailX": 20, "tailY": 45, "tailWidth": 6, "tailCurvature": 22, "width": 160, "fontSize": 8, "borderRadius": 18 },
+            { "text": "En esta ciudad, eso cuenta como currículum.", "speaker": "Mati", "size": "small", "posX": 40, "posY": 35, "tailX": 50, "tailY": 45, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 40, "w": 100, "h": 26 }
@@ -995,8 +1005,9 @@
         {
           "focusY": 0.83,
           "dialogue": [
-            { "text": "Una regla: no te comas al repartidor.", "speaker": "Uandi", "size": "small", "posX": 25, "posY": 69, "tailX": 35, "tailY": 76, "tailWidth": 6, "tailCurvature": -22, "width": 154, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Trajo pizza. Está bajo mi protección.", "speaker": "Peter", "size": "small", "posX": 75, "posY": 69, "tailX": 65, "tailY": 76, "tailWidth": 6, "tailCurvature": 22, "width": 154, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Esto esta muy comodo, muchas gracias amigos", "speaker": "Uandi", "size": "small", "posX": 45, "posY": 65, "tailX": 35, "tailY": 76, "tailWidth": 6, "tailCurvature": -22, "width": 154, "fontSize": 8, "borderRadius": 18 },
+            { "text": "es la mejor noche de mi vida", "speaker": "Peter", "size": "small", "posX": 75, "posY": 69, "tailX": 65, "tailY": 76, "tailWidth": 6, "tailCurvature": 22, "width": 154, "fontSize": 8, "borderRadius": 18, "showSpeakerName": false, "offscreen": false, "style": "thought" },
+            { "text": "descansa piter", "size": "small", "posX": 0, "posY": 90, "tailX": 10, "tailY": 70, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 66, "w": 100, "h": 34 }
@@ -1009,7 +1020,7 @@
         {
           "focusY": 0.1,
           "dialogue": [
-            { "text": "A la mañana siguiente, el monstruo de seis brazos fue el primero en levantarse.", "speaker": "Narración", "style": "caption", "tail": "none", "size": "small", "posX": 25, "posY": 3, "tailX": 35, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "A la mañana siguiente, \"el monstruo\" de seis brazos fue el primero en levantarse.", "style": "caption", "tail": "none", "size": "small", "posX": 35, "posY": 0, "tailX": 35, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 510, "fontSize": 8, "borderRadius": 18, "showSpeakerName": false, "offscreen": false }
           ],
           "zoomRects": [
             { "x": 0, "y": 0, "w": 100, "h": 20 }
@@ -1018,9 +1029,8 @@
         {
           "focusY": 0.315,
           "dialogue": [
-            { "text": "Preparé desayuno. Usé solamente utensilios autorizados.", "speaker": "Peter", "size": "small", "posX": 25, "posY": 23, "tailX": 35, "tailY": 30, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
-            { "text": "¿Quién te autorizó?", "speaker": "Mati", "size": "small", "posX": 75, "posY": 23, "tailX": 65, "tailY": 30, "tailWidth": 6, "tailCurvature": 22, "width": 118, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Yo. Era el único despierto.", "speaker": "Peter", "size": "small", "posX": 25, "posY": 30, "tailX": 35, "tailY": 37, "tailWidth": 6, "tailCurvature": -22, "width": 134, "fontSize": 8, "borderRadius": 18 }
+            { "text": "BUEN DIA Preparé el desayuno", "speaker": "Peter", "size": "small", "posX": 30, "posY": 20, "tailX": 40, "tailY": 25, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Que rico olor que estan cocinando", "speaker": "Mati", "size": "small", "posX": 90, "posY": 20, "tailX": 80, "tailY": 25, "tailWidth": 6, "tailCurvature": 22, "width": 118, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 20, "w": 100, "h": 23 }
@@ -1029,8 +1039,8 @@
         {
           "focusY": 0.525,
           "dialogue": [
-            { "text": "El mate no se revuelve y no se cambia de mano hasta devolverlo.", "speaker": "Uandi", "size": "small", "posX": 25, "posY": 46, "tailX": 35, "tailY": 53, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Seis manos y sólo puedo usar una. Sus reglas castigan mi cultura.", "speaker": "Peter", "size": "small", "posX": 75, "posY": 46, "tailX": 65, "tailY": 53, "tailWidth": 6, "tailCurvature": 22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Prepare el mate y unas tostaditas", "speaker": "Uandi", "size": "small", "posX": 25, "posY": 35, "tailX": 50, "tailY": 45, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Con seis manos cualquiera", "speaker": "Peter", "size": "small", "posX": 0, "posY": 40, "tailX": 10, "tailY": 45, "tailWidth": 6, "tailCurvature": 22, "width": 160, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 43, "w": 100, "h": 19 }
@@ -1039,8 +1049,8 @@
         {
           "focusY": 0.705,
           "dialogue": [
-            { "text": "¿Eso abre la caja de comida?", "speaker": "Peter", "size": "small", "posX": 25, "posY": 65, "tailX": 35, "tailY": 72, "tailWidth": 6, "tailCurvature": -22, "width": 136, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Son llaves. Abren puertas.", "speaker": "Uandi", "size": "small", "posX": 75, "posY": 65, "tailX": 65, "tailY": 72, "tailWidth": 6, "tailCurvature": 22, "width": 132, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Ordene y limpie todo", "speaker": "Peter", "size": "small", "posX": 25, "posY": 65, "tailX": 60, "tailY": 65, "tailWidth": 6, "tailCurvature": -22, "width": 136, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Uandi ronca basntante asi que me desperto temprano", "speaker": "Uandi", "size": "small", "posX": 30, "posY": 70, "tailX": 55, "tailY": 70, "tailWidth": 6, "tailCurvature": 22, "width": 132, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 62, "w": 100, "h": 17 }
@@ -1049,7 +1059,7 @@
         {
           "focusY": 0.895,
           "dialogue": [
-            { "text": "Humanos: demasiados objetos que no se comen y demasiadas puertas para guardarlos.", "speaker": "Peter", "size": "small", "posX": 25, "posY": 82, "tailX": 35, "tailY": 89, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Hay que quedarnoslo", "speaker": "Peter", "size": "small", "posX": 30, "posY": 75, "tailX": 25, "tailY": 85, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 79, "w": 100, "h": 21 }
@@ -1062,7 +1072,7 @@
         {
           "focusY": 0.155,
           "dialogue": [
-            { "text": "Tres puestos dejaron de responder en menos de una hora. Eso no es una falla de comunicaciones.", "speaker": "Severine", "size": "small", "posX": 25, "posY": 3, "tailX": 35, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Tres puestos dejaron de responder en menos de una hora. Eso no es una falla de comunicaciones.", "speaker": "Severine", "size": "small", "posX": 10, "posY": 5, "tailX": 35, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 0, "w": 100, "h": 31 }
@@ -1071,10 +1081,10 @@
         {
           "focusY": 0.43,
           "dialogue": [
-            { "text": "La última señal salió del túnel oeste. Duró cuatro segundos.", "speaker": "Oficial del Nadir", "size": "small", "posX": 25, "posY": 34, "tailX": 35, "tailY": 41, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
-            { "text": "¿Voces?", "speaker": "Severine", "size": "small", "posX": 75, "posY": 34, "tailX": 65, "tailY": 41, "tailWidth": 6, "tailCurvature": 22, "width": 94, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Sólo respiración.", "speaker": "Oficial del Nadir", "size": "small", "posX": 25, "posY": 41, "tailX": 35, "tailY": 48, "tailWidth": 6, "tailCurvature": -22, "width": 114, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Equipo de cinco. Reconocimiento, extracción y balizas de luz cada veinte metros.", "speaker": "Severine", "size": "small", "posX": 75, "posY": 41, "tailX": 65, "tailY": 48, "tailWidth": 6, "tailCurvature": 22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "La última señal salió del túnel oeste. Duró cuatro segundos.", "speaker": "Oficial del Nadir", "size": "small", "posX": 25, "posY": 25, "tailX": 15, "tailY": 35, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
+            { "text": "¿camaras?", "speaker": "Severine", "size": "small", "posX": 45, "posY": 30, "tailX": 35, "tailY": 35, "tailWidth": 6, "tailCurvature": 22, "width": 94, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Nada. puntos ciegos", "speaker": "Oficial del Nadir", "size": "small", "posX": 10, "posY": 55, "tailX": 5, "tailY": 40, "tailWidth": 6, "tailCurvature": -22, "width": 114, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Equipo de cinco. Reconocimiento, extracción y balizas de luz cada veinte metros.", "speaker": "Severine", "size": "small", "posX": 85, "posY": 30, "tailX": 65, "tailY": 35, "tailWidth": 6, "tailCurvature": 22, "width": 160, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 31, "w": 100, "h": 24 }
@@ -1083,8 +1093,8 @@
         {
           "focusY": 0.66,
           "dialogue": [
-            { "text": "No persigan nada. No se separen. Informen cada treinta segundos aunque no haya novedades.", "speaker": "Severine", "size": "small", "posX": 25, "posY": 58, "tailX": 35, "tailY": 65, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Si el túnel queda en silencio, vuelvan.", "speaker": "Severine", "size": "small", "posX": 75, "posY": 58, "tailX": 65, "tailY": 65, "tailWidth": 6, "tailCurvature": 22, "width": 158, "fontSize": 8, "borderRadius": 18 }
+            { "text": "No persigan nada. No se separen. Informen cada treinta segundos aunque no haya novedades.", "speaker": "Severine", "size": "small", "posX": 15, "posY": 50, "tailX": 45, "tailY": 60, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Si mi señora", "speaker": "Severine", "size": "small", "posX": 55, "posY": 55, "tailX": 70, "tailY": 60, "tailWidth": 6, "tailCurvature": 22, "width": 158, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 55, "w": 100, "h": 22 }
@@ -1104,7 +1114,7 @@
         {
           "focusY": 0.14,
           "dialogue": [
-            { "text": "Formación cerrada. Nadie pierde de vista al de adelante.", "speaker": "Jefe de escuadra", "size": "small", "posX": 25, "posY": 3, "tailX": 35, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Formación cerrada. Nadie se separe", "speaker": "Jefe de escuadra", "size": "small", "posX": 55, "posY": 0, "tailX": 30, "tailY": 5, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 0, "w": 100, "h": 28 }
@@ -1113,7 +1123,7 @@
         {
           "focusY": 0.37,
           "dialogue": [
-            { "text": "La puerta no está forzada. La abrieron desde adentro.", "speaker": "Agente del Nadir", "size": "small", "posX": 25, "posY": 31, "tailX": 35, "tailY": 38, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "La puerta no está forzada. La abrieron desde adentro.", "speaker": "Agente del Nadir", "size": "small", "posX": 85, "posY": 20, "tailX": 105, "tailY": 35, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 28, "w": 100, "h": 18 }
@@ -1122,8 +1132,8 @@
         {
           "focusY": 0.52,
           "dialogue": [
-            { "text": "Sangre. Todavía está fresca.", "speaker": "Agente del Nadir", "size": "small", "posX": 25, "posY": 49, "tailX": 35, "tailY": 56, "tailWidth": 6, "tailCurvature": -22, "width": 136, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Central, encontramos el puesto. No hay cuerpos.", "speaker": "Jefe de escuadra", "size": "small", "posX": 75, "posY": 49, "tailX": 65, "tailY": 56, "tailWidth": 6, "tailCurvature": 22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Sangre. Todavía está fresca.", "speaker": "Agente del Nadir", "size": "small", "posX": 20, "posY": 40, "tailX": -10, "tailY": 50, "tailWidth": 6, "tailCurvature": -22, "width": 136, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Central, encontramos el puesto. No hay cuerpos.", "speaker": "Jefe de escuadra", "size": "small", "posX": 80, "posY": 35, "tailX": 70, "tailY": 45, "tailWidth": 6, "tailCurvature": 22, "width": 160, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 46, "w": 100, "h": 12 }
@@ -1132,8 +1142,8 @@
         {
           "focusY": 0.68,
           "dialogue": [
-            { "text": "Escuché algo arriba.", "speaker": "Agente del Nadir", "size": "small", "posX": 25, "posY": 61, "tailX": 35, "tailY": 68, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Luces al techo. Despacio.", "speaker": "Jefe de escuadra", "size": "small", "posX": 75, "posY": 61, "tailX": 65, "tailY": 68, "tailWidth": 6, "tailCurvature": 22, "width": 130, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Escuché algo arriba.", "speaker": "Agente del Nadir", "size": "small", "posX": 25, "posY": 55, "tailX": -20, "tailY": 70, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Luces al techo. Despacio.", "speaker": "Jefe de escuadra", "size": "small", "posX": 85, "posY": 60, "tailX": 110, "tailY": 75, "tailWidth": 6, "tailCurvature": 22, "width": 130, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 58, "w": 100, "h": 20 }
@@ -1153,7 +1163,7 @@
         {
           "focusY": 0.125,
           "dialogue": [
-            { "text": "¡Contacto! ¡Cierren el círculo!", "speaker": "Jefe de escuadra", "size": "small", "posX": 25, "posY": 3, "tailX": 35, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 142, "fontSize": 8, "borderRadius": 18 }
+            { "text": "¡Contacto! ¡Cierren el círculo!", "speaker": "Jefe de escuadra", "size": "small", "posX": 20, "posY": 0, "tailX": 35, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 142, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 0, "w": 100, "h": 25 }
@@ -1162,7 +1172,7 @@
         {
           "focusY": 0.35,
           "dialogue": [
-            { "text": "¡Está en el techo! ¡No, atrás tuyo!", "speaker": "Agente del Nadir", "size": "small", "posX": 25, "posY": 28, "tailX": 35, "tailY": 35, "tailWidth": 6, "tailCurvature": -22, "width": 150, "fontSize": 8, "borderRadius": 18 }
+            { "text": "¡Está en el techo! ¡No, atrás tuyo!", "speaker": "Agente del Nadir", "size": "small", "posX": 20, "posY": 25, "tailX": 25, "tailY": 35, "tailWidth": 6, "tailCurvature": -22, "width": 150, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 25, "w": 100, "h": 20 }
@@ -1171,9 +1181,8 @@
         {
           "focusY": 0.59,
           "dialogue": [
-            { "text": "Las desapariciones no eran una brecha de seguridad. Eran una cacería.", "speaker": "Narración", "style": "caption", "tail": "none", "size": "small", "posX": 25, "posY": 48, "tailX": 35, "tailY": 55, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Trajeron luz para verme morir.", "speaker": "Balanar", "size": "small", "posX": 75, "posY": 48, "tailX": 65, "tailY": 55, "tailWidth": 6, "tailCurvature": 22, "width": 140, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Yo la traje para verlos correr.", "speaker": "Balanar", "size": "small", "posX": 25, "posY": 55, "tailX": 35, "tailY": 62, "tailWidth": 6, "tailCurvature": -22, "width": 142, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Las desapariciones no eran una brecha de seguridad. Eran una cacería.", "speaker": "Narración", "style": "caption", "tail": "none", "size": "small", "posX": 15, "posY": 45, "tailX": 35, "tailY": 55, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
+            { "text": "AAAAAAh", "speaker": "Balanar", "size": "small", "posX": 20, "posY": 50, "tailX": 15, "tailY": 60, "tailWidth": 6, "tailCurvature": -22, "width": 142, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 45, "w": 100, "h": 28 }
@@ -1181,9 +1190,7 @@
         },
         {
           "focusY": 0.865,
-          "dialogue": [
-            { "text": "¡Retirada! ¡Uno por uno, cubran la salida!", "speaker": "Jefe de escuadra", "size": "small", "posX": 25, "posY": 76, "tailX": 35, "tailY": 83, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
-          ],
+          "dialogue": [],
           "zoomRects": [
             { "x": 0, "y": 73, "w": 100, "h": 27 }
           ]
@@ -1195,7 +1202,7 @@
         {
           "focusY": 0.135,
           "dialogue": [
-            { "text": "¡Abran paso! ¡Superviviente del túnel oeste!", "speaker": "Guardia del Nadir", "size": "small", "posX": 25, "posY": 3, "tailX": 35, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "¡Abran paso! ¡Superviviente del túnel oeste!", "speaker": "Guardia del Nadir", "size": "small", "posX": 55, "posY": 5, "tailX": 65, "tailY": 15, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 0, "w": 100, "h": 27 }
@@ -1204,7 +1211,7 @@
         {
           "focusY": 0.375,
           "dialogue": [
-            { "text": "Mírame. ¿Dónde está el resto de tu equipo?", "speaker": "Severine", "size": "small", "posX": 25, "posY": 30, "tailX": 35, "tailY": 37, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Mírame. ¿Dónde está el resto de tu equipo?", "speaker": "Severine", "size": "small", "posX": 90, "posY": 20, "tailX": 80, "tailY": 25, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 27, "w": 100, "h": 21 }
@@ -1213,7 +1220,7 @@
         {
           "focusY": 0.58,
           "dialogue": [
-            { "text": "Perdió demasiada sangre. Necesito llevarlo ahora.", "speaker": "Médica del Nadir", "size": "small", "posX": 25, "posY": 51, "tailX": 35, "tailY": 58, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Perdió demasiada sangre. Necesito llevarlo ahora.", "speaker": "Médica del Nadir", "size": "small", "posX": 25, "posY": 40, "tailX": 40, "tailY": 50, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 48, "w": 100, "h": 20 }
@@ -1222,9 +1229,11 @@
         {
           "focusY": 0.84,
           "dialogue": [
-            { "text": "Una palabra. Decime qué los atacó.", "speaker": "Severine", "size": "small", "posX": 25, "posY": 71, "tailX": 35, "tailY": 78, "tailWidth": 6, "tailCurvature": -22, "width": 148, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Balanar... estaba esperándonos.", "speaker": "Agente herido", "size": "small", "posX": 75, "posY": 71, "tailX": 65, "tailY": 78, "tailWidth": 6, "tailCurvature": 22, "width": 142, "fontSize": 8, "borderRadius": 18 },
-            { "text": "No eran puestos aislados. Estuvo trazando un camino hasta nosotros.", "speaker": "Severine", "style": "thought", "tail": "none", "size": "small", "posX": 25, "posY": 78, "tailX": 35, "tailY": 85, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Es el?", "speaker": "Severine", "size": "small", "posX": 45, "posY": 65, "tailX": 30, "tailY": 75, "tailWidth": 6, "tailCurvature": -22, "width": 148, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Decime, que fue lo que paso?", "size": "small", "posX": 100, "posY": 75, "tailX": 90, "tailY": 75, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 8, "borderRadius": 18 },
+            { "text": "-EL.. es real", "speaker": "Agente herido", "size": "small", "posX": 40, "posY": 80, "tailX": 55, "tailY": 75, "tailWidth": 6, "tailCurvature": -90, "width": 142, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Quien? que viste?", "speaker": "Severine", "tail": "none", "size": "small", "posX": 100, "posY": 85, "tailX": 35, "tailY": 85, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Balanar... Night stalker", "size": "small", "posX": 45, "posY": 90, "tailX": 55, "tailY": 80, "tailWidth": 8, "tailCurvature": -58, "width": 120, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 68, "w": 100, "h": 32 }
@@ -1237,9 +1246,8 @@
         {
           "focusY": 0.16,
           "dialogue": [
-            { "text": "Balanar no irrumpió en el Nadir. Lleva días estudiándonos desde adentro.", "speaker": "Severine", "size": "small", "posX": 25, "posY": 3, "tailX": 35, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Podemos evacuar los niveles inferiores y volar los accesos.", "speaker": "Oficial del Nadir", "size": "small", "posX": 75, "posY": 3, "tailX": 65, "tailY": 10, "tailWidth": 6, "tailCurvature": 22, "width": 160, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Evacúen, pero no vuelen nada. Quiere obligarnos a movernos.", "speaker": "Severine", "size": "small", "posX": 25, "posY": 10, "tailX": 35, "tailY": 17, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Si esto es real. ", "speaker": "Severine", "size": "small", "posX": 5, "posY": 0, "tailX": 20, "tailY": 5, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Necesitamos triplicar la seguridad", "size": "small", "posX": 45, "posY": 5, "tailX": 30, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 120, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 0, "w": 100, "h": 32 }
@@ -1248,8 +1256,8 @@
         {
           "focusY": 0.435,
           "dialogue": [
-            { "text": "Sellen cada túnel. Trampas de luz en los cruces y sensores térmicos en los ductos.", "speaker": "Severine", "size": "small", "posX": 25, "posY": 35, "tailX": 35, "tailY": 42, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Patrullas de seis. Nadie persigue sombras y nadie vuelve a bajar solo.", "speaker": "Severine", "size": "small", "posX": 75, "posY": 35, "tailX": 65, "tailY": 42, "tailWidth": 6, "tailCurvature": 22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Sellen cada túnel. Trampas de luz en los cruces y sensores térmicos en los ductos.", "speaker": "Severine", "size": "small", "posX": 15, "posY": 30, "tailX": 10, "tailY": 40, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Patrullas de seis. Nadie persigue sombras y nadie vuelve a bajar solo.", "speaker": "Severine", "size": "small", "posX": 90, "posY": 30, "tailX": 95, "tailY": 45, "tailWidth": 6, "tailCurvature": 22, "width": 160, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 32, "w": 100, "h": 23 }
@@ -1265,8 +1273,8 @@
         {
           "focusY": 0.86,
           "dialogue": [
-            { "text": "Ya entendí tu juego, Balanar.", "speaker": "Severine", "style": "thought", "tail": "none", "size": "small", "posX": 25, "posY": 75, "tailX": 35, "tailY": 82, "tailWidth": 6, "tailCurvature": -22, "width": 138, "fontSize": 8, "borderRadius": 18 },
-            { "text": "Ahora vení por mí.", "speaker": "Severine", "style": "thought", "tail": "none", "size": "small", "posX": 75, "posY": 75, "tailX": 65, "tailY": 82, "tailWidth": 6, "tailCurvature": 22, "width": 116, "fontSize": 8, "borderRadius": 18 }
+            { "text": "No vas a volver a atormentar a mi gente, Balanar.", "speaker": "Severine", "style": "thought", "tail": "none", "size": "small", "posX": 30, "posY": 75, "tailX": 35, "tailY": 82, "tailWidth": 6, "tailCurvature": -22, "width": 138, "fontSize": 8, "borderRadius": 18 },
+            { "text": "Vení por mí.", "speaker": "Severine", "style": "thought", "tail": "none", "size": "small", "posX": 30, "posY": 80, "tailX": 65, "tailY": 82, "tailWidth": 6, "tailCurvature": 22, "width": 116, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 72, "w": 100, "h": 28 }
@@ -1279,7 +1287,7 @@
         {
           "focusY": 0.165,
           "dialogue": [
-            { "text": "Mientras Severine convertía el Nadir en una trampa...", "speaker": "Narración", "style": "caption", "tail": "none", "size": "small", "posX": 25, "posY": 3, "tailX": 35, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "Mientras Severine convertía el Nadir en una trampa...", "style": "caption", "tail": "none", "size": "small", "posX": 40, "posY": 5, "tailX": 35, "tailY": 10, "tailWidth": 6, "tailCurvature": -22, "width": 220, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 0, "w": 100, "h": 33 }
@@ -1302,7 +1310,7 @@
         {
           "focusY": 0.875,
           "dialogue": [
-            { "text": "...Norman Parker perfeccionaba una cacería que había empezado mucho antes.", "speaker": "Narración", "style": "caption", "tail": "none", "size": "small", "posX": 25, "posY": 78, "tailX": 35, "tailY": 85, "tailWidth": 6, "tailCurvature": -22, "width": 160, "fontSize": 8, "borderRadius": 18 }
+            { "text": "...Norman Parker perfeccionaba una cacería que había empezado mucho antes.", "style": "caption", "tail": "none", "size": "small", "posX": 10, "posY": 75, "tailX": 35, "tailY": 85, "tailWidth": 6, "tailCurvature": -22, "width": 240, "fontSize": 8, "borderRadius": 18 }
           ],
           "zoomRects": [
             { "x": 0, "y": 75, "w": 100, "h": 25 }
