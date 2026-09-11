@@ -1,0 +1,172 @@
+[
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\Bandit_Farsight_Evolucion_Conceptual.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\REFERENCIAS\\Bandit_Farsight_Evolucion_Conceptual.md",
+    "SHA256": "5ADE7716E023EAE9D8F7620950DF0227C039522BA6B4AFFAC1324693BBED26A1"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\Beyonders_Bloque_1_Resumen_por_Pagina_y_Dialogos.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\NARRATIVA_PREVIA\\Beyonders_Bloque_1_Resumen_por_Pagina_y_Dialogos.md",
+    "SHA256": "E04121D8F14D56179D38DAFAC6B830A97831C39A1E7541237CBA6D34266B7654"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\Beyonders_Bloque_3_Cierre_P25_P32.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\NARRATIVA_PREVIA\\Beyonders_Bloque_3_Cierre_P25_P32.md",
+    "SHA256": "3951A00A71C7999F9AE80F0F7A0801A15C458A55509594A86F29B27A2D08097B"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\Beyonders_Bloque_3_P22_P24.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\NARRATIVA_PREVIA\\Beyonders_Bloque_3_P22_P24.md",
+    "SHA256": "A1E5CA3EE789A3D74AC9C7E4B891139F5E1702A18FD063E9D20B9D3EC2F14ED1"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\Beyonders_Direccion_Narrativa_Bandos_y_Convergencia.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\NARRATIVA_PREVIA\\Beyonders_Direccion_Narrativa_Bandos_y_Convergencia.md",
+    "SHA256": "ED140B038911612D1A1F865B88EE072CDEE0C10BC661F841E2A20668B377C485"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\Beyonders_Estructura_Primera_Gran_Parte.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\NARRATIVA_PREVIA\\Beyonders_Estructura_Primera_Gran_Parte.md",
+    "SHA256": "A2F1C2D6C23501E5BE5DB96603CC5EFBA7F737C7480FE35590FC84B5520673F0"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\Beyonders_Trama_General_y_Bloque_2_Optimizado.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\NARRATIVA_PREVIA\\Beyonders_Trama_General_y_Bloque_2_Optimizado.md",
+    "SHA256": "2B2133C5C55777A49E62D14C064B6AC81E70EE39DC8A6FC5CF78645C6147CDD9"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\biblia_personalidad_proximas_sagas_actualizada.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\REFERENCIAS\\biblia_personalidad_proximas_sagas_actualizada.md",
+    "SHA256": "5525AE925824B66A416824AF962B504162EDCEACD0FBCC4BF69C81A2BE1CC1B2"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\Sistema_Aureon_Documento_Maestro_de_Locaciones.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\REFERENCIAS\\Sistema_Aureon_Documento_Maestro_de_Locaciones.md",
+    "SHA256": "1BC59516621130E4376E7979795137D3345D9C15073A72E22476A757F6323B00"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P11_Senal_a_Mando.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\NHALOS_PREVIO\\P11_Senal_a_Mando.md",
+    "SHA256": "4E1A287059383E22244FA1E90DB0368DE002606B936AFBA61781683883943561"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P12_Mando_envia_moto.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\NHALOS_PREVIO\\P12_Mando_envia_moto.md",
+    "SHA256": "6F7472A19F1C2B00138FF6150B2C65DE744B6F98FE4CDF1907B3856AC43E2A8D"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P13_La_moto_llega.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\NHALOS_PREVIO\\P13_La_moto_llega.md",
+    "SHA256": "E84F83A69CCF127DFC4AFF55B6C6722225CEF1F09A24EA0C24DDE9B7134AFBF4"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P14_Ciudad_de_Nhalos_Splash.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\NHALOS_PREVIO\\P14_Ciudad_de_Nhalos_Splash.md",
+    "SHA256": "3C4029D10B0EC5F5D227094BCDE179AB57BEE1D58D624AC7E1BDB81ED1A82A2D"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P15_Reencuentro_y_exigencia.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\NHALOS_PREVIO\\P15_Reencuentro_y_exigencia.md",
+    "SHA256": "6E7E0B5D56113C809B7726428A7BB748E826FCFE7CB621A44ED6B10480976E16"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P16_El_Pistolero.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\NHALOS_PREVIO\\P16_El_Pistolero.md",
+    "SHA256": "F957CCFF5E52E34016B50F9D71C6A3255744D68C5968E68B97785BE0F91F8ACA"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P17_La_manada.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\NHALOS_PREVIO\\P17_La_manada.md",
+    "SHA256": "5187FF9A173B239960EAA3DCADA81D44DEDF6D26758AC1146BCB7ECECD09607B"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P18_Montar_al_alfa.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\NHALOS_PREVIO\\P18_Montar_al_alfa.md",
+    "SHA256": "9DA93D854021CCA92F2FE9965770359C53B8581D501D80E1CDD7620A71A8DB5D"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P19_Morphos_entra_al_pueblo_v2_comic.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\NHALOS_PREVIO\\P19_Morphos_entra_al_pueblo_v2_comic.md",
+    "SHA256": "AEBB6FB02858EB211C51BEC2AAF12EC1BBD9FED29E1F885624B98C959683B59D"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P19_Morphos_entra_al_pueblo.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\NHALOS_PREVIO\\P19_Morphos_entra_al_pueblo.md",
+    "SHA256": "2DADCDCA33CAA217B2B9AC65937C24E83F0134D2520EA9021436F610896E44D4"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P20_El_hombre_que_volvio_v2_comic.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\NHALOS_PREVIO\\P20_El_hombre_que_volvio_v2_comic.md",
+    "SHA256": "7BC58BE6C893842883B54860291DAA3D797385E8A54FC3699B845F5B7A2C9CA3"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P20_El_hombre_que_volvio.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\NHALOS_PREVIO\\P20_El_hombre_que_volvio.md",
+    "SHA256": "1FFD74627CDE33FF060513D777682A617FBB123F72AC1CA3AF01F997D2773468"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P21_Lo_vendieron_en_Ossara_v2_comic.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\NHALOS_PREVIO\\P21_Lo_vendieron_en_Ossara_v2_comic.md",
+    "SHA256": "92B5F468DC18E9DA128BEE2E42A588C787E793B24A8B4739A7C4D507BE71154E"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P21_Lo_vendieron_en_Ossara.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\NHALOS_PREVIO\\P21_Lo_vendieron_en_Ossara.md",
+    "SHA256": "1FEA6A94A33DF849A052A3417784B0AE152040D119337379C73248DFCAECF632"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P22_Morphos_se_queda.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\PROMPTS_OSSARA_PREVIOS\\P22_Morphos_se_queda.md",
+    "SHA256": "674A82F3EEBEC1A1AC8B44FC16C08B51D3797E04C2F9EF781E7860F868C3901C"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P23_Ossara_revelacion.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\PROMPTS_OSSARA_PREVIOS\\P23_Ossara_revelacion.md",
+    "SHA256": "CB68225822786AE135E67CD32B087D298B9B12E3319F16F19D754F86274A46F5"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P24_Todos_venden_algo.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\PROMPTS_OSSARA_PREVIOS\\P24_Todos_venden_algo.md",
+    "SHA256": "B79FB3EC1D25E7A571BB5A19BD5E34F0137E58F494215245C2BEB7CAC534E9D7"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P25_Dejamos_uno.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\PROMPTS_OSSARA_PREVIOS\\P25_Dejamos_uno.md",
+    "SHA256": "0EDD1369D603BA8187534816020ADF01EEA14B01BDDD6E09CDAB5EC771FE7902"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P26_El_que_cobra.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\PROMPTS_OSSARA_PREVIOS\\P26_El_que_cobra.md",
+    "SHA256": "998922B40ABDFFC9339CBEFF14AF097DEE124BA54AB770C3DB8C8331AB0E78C7"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P27_El_Capitan.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\PROMPTS_OSSARA_PREVIOS\\P27_El_Capitan.md",
+    "SHA256": "7680A3D9EA41F2232C187FF9272875E2242DAE4C1212A7E339AB4F02C2E37B16"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P28_La_carga.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\PROMPTS_OSSARA_PREVIOS\\P28_La_carga.md",
+    "SHA256": "F2899301C2C0BCACC2160739374E16B6E0DED3E68AADFB0D085C320F7C019AD8"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P29_El_trato.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\PROMPTS_OSSARA_PREVIOS\\P29_El_trato.md",
+    "SHA256": "E7CF5BA194CE35D90FF6B05738248C449D423179C97B16C5516F4F1EC9A1C6B6"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P30_Treinta_segundos.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\PROMPTS_OSSARA_PREVIOS\\P30_Treinta_segundos.md",
+    "SHA256": "1461E691C2A1AFA88D1BE161457FF439E2E49CFD936F553265C2E73D271BEDA9"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P31_Lo_que_robo.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\PROMPTS_OSSARA_PREVIOS\\P31_Lo_que_robo.md",
+    "SHA256": "8551E2892894F765DDF02D354CA3E5375AD9F5A8357AB3BC568C1293548AC124"
+  },
+  {
+    "Source": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\PROMPTS\\P32_Ya_llego.md",
+    "Destination": "D:\\.CodeProjects\\the-boyz-comic\\DOCS\\.sagas\\beyonders\\ARCHIVO\\PROMPTS_OSSARA_PREVIOS\\P32_Ya_llego.md",
+    "SHA256": "A0DFC148C5774E47D55E509ADF2DDA781BB1A36EDC377BDEDF4361BF0D2F6B31"
+  }
+]
