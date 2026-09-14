@@ -13,7 +13,9 @@ Este documento define las reglas que no deben perderse al pasar una historia por
 No reemplaza a las guías especializadas:
 
 - `01_GUIA_NARRATIVA_ELSEFRAME.md` desarrolla personajes, relaciones, escenas, actos, episodios, conflictos, voces y antagonistas.
-- `02_GUIA_PAGINA_VISUAL_HOUSE_STYLE_ELSEFRAME.md` desarrolla páginas, viñetas, composición, acción, violencia estilizada, continuidad visual, prompting y house style.
+- `02_GUIA_GRAFICA_ELSEFRAME_v3_0.md` desarrolla páginas, dimensiones de lienzo/formato, viñetas, composición, acción, violencia estilizada, continuidad visual, prompting y house style.
+- `03_PLANTILLAS_PROMPT_BASE_ELSEFRAME.md` desarrolla sheets, locaciones, vehículos, portadas y contraportadas.
+- `04_HOJA_CHAT_GENERACION.md` guía de ejecución, dimensiones y restricciones para el chat de generación de imagen.
 
 Su función es impedir que cada chat interprete el proyecto como si fuera una obra distinta.
 
@@ -218,6 +220,20 @@ Usar para:
 Pregunta útil:
 
 > ¿Qué cambia objetivamente después de esta escena?
+
+### Moore — estructura formal y desmitificación
+
+Usar para:
+
+- rimas visuales y verbales entre escenas (*match cut*);
+- contrapunto temático y simetría formal;
+- desmitificación del poder, obsesión y trauma;
+- consecuencias ideológicas y fractura moral;
+- capas de fondo que contrastan con el primer plano.
+
+Pregunta útil:
+
+> ¿Qué rima o contrapunto temático conecta esta escena con el conjunto y qué verdad incómoda expone?
 
 ### Gillen — psicología y subtexto
 

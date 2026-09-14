@@ -188,8 +188,9 @@ Use only for editorial design logic: typographic hierarchy, integration of text 
 BACK COVER BRIEF:
 - Mood/tone of the recap: [ej. amenaza contenida, cierre de arco, revelación final]
 - Editorial concept: [qué relación deben tener texto e imagen]
-- Featured visual material: [una imagen dominante o 1-3 módulos editoriales contenidos; no una secuencia narrativa]
-- Layout profile: [centrado y monumental / asimétrico con espacio negativo / columnas editoriales / modular con imágenes contenidas]
+- Layout profile: [Elegir uno de los dos perfiles canónicos:]
+  * **Perfil A — Asimétrico / Espacio Negativo (tipo Secret Wars):** Gran masa gráfica de tinta / máscara recortada sobre fondo blanco limpio + logotipo principal + 2 columnas (créditos técnicos a la izquierda, bloque de recap a la derecha).
+  * **Perfil B — Modular en Grilla (tipo Homenaje / Institucional):** Banner superior negro de sección + módulos de imagen contenidos con marco negro fino (1 principal + 1-2 secundarios) + columnas de texto / citas adyacentes.
 
 BACK COVER COPY — FINAL AND EXACT:
 - Eyebrow / section label: [texto exacto o None]
@@ -219,6 +220,13 @@ FINISH: same hard rules as the selected Render Mode (sections 18-20, block 76A o
 
 # 5. Nota de uso común a las cuatro plantillas
 
+- **Proporciones de lienzo (Aspect Ratio) y dimensiones por tipo de pieza:**
+  - **Portadas y Contraportadas:** Formato vertical de cómic estándar **~0.71 (1055 × 1491 px)** o **2:3 (1024 × 1536 px)**.
+  - **Sheets de Personaje (3 paneles):** Formato apaisado **16:9 / 4:3** para las tres vistas dispuestas lado a lado, o formato cuadrado **1:1** según la distribución espacial elegida.
+  - **Sheets de Locación / Vehículo:** Formato apaisado **16:9 / 4:3** para planos generales y vistas múltiples con inserts.
+- **Formatos de archivo y flujo de exportación:**
+  - **Generación Master:** Archivo nativo en formato **PNG** sin compresión con pérdida.
+  - **Publicación Web:** Conversión a **WebP** (calidad 85%) mediante el pipeline de optimización.
 - **Acabado seco, sin brillo disperso (v1.1):** en todos los bloques FINISH de este documento, agregar siempre: "Maximum one broad, deliberate highlight per material plane — no scattered specular highlight dots, no sparkle or starburst highlights, no wet-look sheen. Shadow does real narrative work through hard-edged shapes; the finish should read as dry, matte comic-print ink and flat color, not photographic gloss." Ver sección 18 de la guía 02 para el detalle completo de este patrón de falla.
 - Siempre completar el bloque House Style copiando literalmente el bloque 76A/76B de la sección 20 de la guía 02 — no parafrasear.
 - Cuando se adjunten referencias de identidad + estilo, declarar siempre cuál es Style Anchor y cuál es Style Complement (sección 9 de la guía 02).

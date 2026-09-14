@@ -28,13 +28,22 @@ No arrancar con "necesito N viñetas". Preguntar primero cuántos instantes mere
 
 **Gran panel dominante + inserts:** uno de los recursos centrales. El panel grande responde "¿qué ocurre?"; los inserts (ojos, manos, herida, objeto, reacción simultánea) responden "¿qué significa?". No usar inserts para repetir la misma acción desde otro ángulo.
 
-## 3. Orientación de panel — vertical por defecto
+## 3. Orientación de panel, dimensiones de lienzo y formato de imagen
 
 Elseframe es cómic digital de scroll vertical. **El panel vertical es la orientación por defecto** en cualquier página de más de un panel — tiras apiladas, proporciones altas.
 
 El panel horizontal es **excepción deliberada**, no alternativa equivalente. Usar solo para: horizonte, distancia, confrontación cara a cara, observación/pausa, acción lateral, respiración — y declarar el motivo. No hace falta justificar el vertical; sí el horizontal.
 
 Tamaño del panel = percepción temporal: panel grande prolonga y pesa; panel chico acelera y fragmenta; splash puede congelar el tiempo.
+
+### Estándar de lienzo y proporciones (Aspect Ratio)
+- **Páginas narrativas, Portadas y Contraportadas:** Formato vertical de cómic estándar. Relación de aspecto canónica **~0.71 (1055 × 1491 px)** o **2:3 / ~0.67 (1024 × 1536 px)**.
+- **Resolución mínima recomendada:** 1055 × 1491 px (o mínimo 1500–1600 px en el eje vertical) para garantizar definición de entintado y rotulación nítida en pantallas de alta densidad.
+- **Sheets de Personajes / Turnarounds (layout 3 paneles):** Formato apaisado o panorámico (**16:9 / 4:3**) o cuadrado (**1:1**) según la disposición de las figuras y vistas.
+
+### Formatos de archivo y flujo de publicación
+- **Generación Master (Raw):** Formato **PNG** sin compresión destructiva a resolución nativa completa para preservar el detalle de la tinta y cel shading.
+- **Entrega / Producción Web:** Conversión optimizada a formato **WebP** (calidad 85%, compresión de alto esfuerzo) para distribución ligera y lectura fluida en el visor web.
 
 ## 4. Recursos visuales — tabla de decisión
 
@@ -46,17 +55,18 @@ Tamaño del panel = percepción temporal: panel grande prolonga y pesa; panel ch
 | Extreme close-up | detalle mínimo con carga simbólica (ojo, mano, objeto) | no hay carga emocional/narrativa específica en ese detalle |
 | Reducción progresiva de plano | tensión creciente, foco emocional in crescendo | la escena no tiene escalada |
 | Plano general | escala, aislamiento, contexto | se necesita intimidad |
-| Fondo blanco | sacar la escena de contexto para impacto puro | la ubicación todavía importa para la lectura |
-| Fondo negro | vacío, muerte, amenaza, silencio | se usa solo porque "se ve dark", sin función |
-| Silueta | brutalidad sin depender de detalle anatómico, o identidad oculta un instante | la identidad debe ser clara en ese instante |
-| Sombras / masas negras duras | dirigir la mirada, ocultar información sensible, tensión | se usa como textura decorativa |
-| Espacio negativo | soledad, espera, vulnerabilidad | cada centímetro necesita información |
-| Profundidad 2D (perspectiva, superposición, escala) | dar profundidad sin look 3D | nunca reemplazar por render 3D real — eso está prohibido siempre |
-| Ruptura de borde | personaje/objeto irrumpe hacia el lector | se usa en cada página, pierde significado |
-| Debris como dirección visual | destrucción con función compositiva (dirige mirada, indica fuerza) | detalle decorativo sin dirección |
+| Fondo blanco (Knockout) | congelar impacto físico o choque puro aislando la acción del entorno | la ubicación todavía importa para la lectura |
+| Fondo negro | vacío, muerte, amenaza, silencio, claroscuro | se usa solo porque "se ve dark", sin función |
+| Silueta / Masas negras | intimidación, misterio o brutalidad estilizada sin anatomía explícita | la identidad o mecanismo debe ser claro en ese instante |
+| Espacio negativo | soledad, espera, vulnerabilidad, aire compositivo | cada centímetro necesita información |
+| "3D" dibujado (escorzo 2D) | profundidad dinámica mediante escorzo anatómico extremo y superposición de planos | nunca sustituir por CGI o render 3D real (prohibido) |
+| Ruptura de borde (Bleeding) | personaje o escombros irrumpen hacia el lector cruzando gutters en clímax o impacto | se usa en cada página; pierde impacto sorpresa |
+| Halftone / Trama de imprenta | transiciones atmosféricas y texturizado localizado en cielos/fondos | ruido uniforme sobre toda la página |
+| Debris como vector visual | fragmentos orientados que dirigen la mirada hacia el siguiente beat | detalle decorativo disperso sin dirección |
 
 ## 5. Acción, poder y contenido sensible — reglas compactas
 
+- **Dinámica de impacto combinada:** En momentos de choque o irrupción mayor, combinar **"3D" dibujado + fondo blanco + ruptura de borde** para maximizar fuerza cinética sin ensuciar la viñeta con fondos innecesarios.
 - **Poderes:** la habilidad revela personalidad (creativa, disciplinada, brutal, precisa, improvisada, arrogante, temerosa, desesperada). No es excusa para llenar el panel de partículas.
 - **Efectos visuales:** todo efecto aporta dirección, intensidad, estado de poder, velocidad, peligro o cambio — nunca saturación automática (sparks, smoke, bloom, glow, lens flares, rim lights por defecto). Si todo tiene efectos, el lector no sabe qué mirar.
 - **Violencia — regla general:** impacto narrativo por sobre detalle fisiológico.
@@ -287,6 +297,7 @@ Si el prompt pide otra excepción explícita (ej. un efecto de energía puntual)
 - [ ] ¿Las restricciones están al final del prompt, no dispersas ni al principio?
 - [ ] ¿Los sheets adjuntos están marcados como identidad, no como técnica?
 - [ ] ¿La continuidad respecto de páginas anteriores está resuelta?
+- [ ] ¿La proporción/aspect ratio del lienzo (~0.71 / 2:3 vertical para páginas y portadas, o ratio correspondiente para sheets) está clara?
 - [ ] ¿Si es contraportada, incluye el copy final exacto y el bloque 76E? ¿Si abre una nueva locación, incluye el copy exacto y el bloque 76F? Fuera de esos casos, ¿prohíbe todo texto generado?
 
 ## 24. Objetivo final

@@ -53,6 +53,22 @@ Si la respuesta es “nada”, probablemente no necesitás su registro.
 
 ---
 
+## Moore → estructura formal y desmitificación
+
+Usarlo para:
+
+- rimas visuales y verbales entre escenas (*match cut* / transición poética);
+- contrapunto temático y simetría formal entre principio y fin;
+- desmitificación del poder, obsesión, fanatismo y trauma;
+- consecuencias ideológicas profundas y fractura moral de los personajes;
+- capas de fondo ambiental que contrastan con lo que ocurre en primer plano.
+
+### Pregunta Moore
+
+> ¿Qué rima o contrapunto temático conecta esta escena con el conjunto y qué verdad incómoda expone?
+
+---
+
 ## Gillen → psicología y subtexto
 
 Usarlo cuando dos personajes quieren cosas distintas aunque estén hablando del mismo tema.
@@ -776,6 +792,8 @@ probablemente alguien necesite comerse una pizza.
 Pensalo así:
 
 **Hickman construye el tablero.**
+
+**Moore diseña las rimas temáticas y expone las fracturas morales.**
 
 **Gillen decide qué secretos tienen las piezas.**
 

@@ -26,6 +26,7 @@ Recibís un prompt ya completamente resuelto desde el chat de prompts. Toda la d
 # 3. Qué NO podés cambiar
 
 - el Render Mode indicado en el prompt (no elevarlo "porque se va a ver mejor", no bajarlo);
+- la relación de aspecto (aspect ratio) y orientación del lienzo indicada (vertical ~0.71 o 2:3 por defecto para páginas/portadas; 16:9/4:3/1:1 para sheets);
 - el número de paneles ni su orden;
 - personajes, variante de traje o vestuario indicados;
 - identidad facial;
@@ -106,13 +107,18 @@ La base sigue siendo hard-edged shading. Se permite más riqueza lumínica: rim 
 
 **Cuál usar lo decide el prompt, no vos.** Si el prompt no lo especifica, usar Base Render por defecto y avisar que faltó esa indicación.
 
-**Acabado "seco" (v1.1):** en ambos modos, la sombra hace trabajo narrativo real (volumen, dirección de luz, clima emocional) — eso no se reduce nunca. Lo que sí se evita siempre es el brillo cosmético: nada de puntos especulares dispersos ni sheen fotográfico. El objetivo es tinta y color plano de calidad de impresión, no un render glossy.
+## 6B. Dimensiones, Relación de Aspecto y Formatos de Salida
+
+- **Páginas de Cómic, Portadas y Contraportadas:** Formato vertical de cómic estándar con relación de aspecto **~0.71 (1055 × 1491 px)** o **2:3 (1024 × 1536 px)**, manteniendo una altura vertical mínima de 1500–1600 px para nitidez en lectura digital.
+- **Sheets de Personajes / Diseños:** Formato apaisado **16:9 / 4:3** para layouts de 3 paneles lado a lado, o **1:1** según la distribución de vistas indicada.
+- **Formato de generación:** Master en **PNG** sin compresión; la conversión a **WebP** (85% de calidad) se realiza en la fase de exportación/optimización web.
 
 ---
 
 # 7. Antes de entregar la imagen — chequeo rápido
 
 - [ ] ¿Respeté el Render Mode indicado?
+- [ ] ¿El lienzo respeta la proporción y orientación correcta (~0.71 o 2:3 vertical para páginas/portadas)?
 - [ ] ¿Asigné a cada adjunto un único rol — identidad, técnica o diseño editorial — sin mezclar funciones entre referencias?
 - [ ] ¿Los personajes/locación/vehículo coinciden con las referencias adjuntas en identidad, no en técnica?
 - [ ] ¿Respeté todas las restricciones duras de la sección 5?
