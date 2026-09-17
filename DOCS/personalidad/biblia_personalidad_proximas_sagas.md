@@ -559,6 +559,7 @@ Su pertenencia previa a La Órbita Muerta también debe revisarse a la luz del n
 ## Mando
 
 - Estará inspirado de forma directa en *The Mandalorian*.
+- **Origen canónico:** Humano veterano de la Tierra, desaparecido en un experimento espacial estadounidense de los años 50. Conserva estética retro espacial fusionada con chatarra y armadura modular de frontera.
 - Debe conservar la base de cazador espacial, armadura, método y vida de frontera.
 - Su identidad no puede agotarse en ser silencioso, competente y misterioso.
 - La relación posible con Matapobres puede aportar contraste y evitar que su trama dependa únicamente de rastrear Ghostline.

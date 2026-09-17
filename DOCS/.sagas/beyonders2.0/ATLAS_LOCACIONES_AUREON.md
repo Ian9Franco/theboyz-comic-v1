@@ -56,7 +56,7 @@ Aureon es un sistema triple jerárquico situado en la Vía Láctea, a inmensa di
 - **Tipo:** Luna habitable de Vael de rica biósfera.
 - **Sector Salvaje:** Selvas densas, vegetación alienígena agresiva, ruinas tecnológicas ancestrales y fauna hostil. Zona donde se estrelló la *Morphos*.
 - **Sector Fronterizo / Habitado:** Asentamientos industriales mineros, talleres de desguace, pistas de despegue polvorientas y tránsito de motos deslizadoras.
-- **Paleta visual:** Verdes oscuros, tierras húmedas y metales oxidados iluminados por luces de neón industrial.
+- **Paleta visual:** Verdes oscuros, tierras húmedas y metales oxidados con iluminación industrial localizada, balizas y señalización cromática funcional (evitar saturación de neón o estética cyberpunk; diseño industrial gastado y utilitario).
 
 ### ⚡ Luna Kharos (La Luna Hostil)
 - **Tipo:** Luna tectónica extrema de Vael.

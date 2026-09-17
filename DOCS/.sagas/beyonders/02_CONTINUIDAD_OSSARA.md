@@ -34,10 +34,10 @@ Mando y Astronauta pueden saber más del sistema que Julián y Mati. Eso no auto
 
 Estas descripciones son anclajes documentales y no sustituyen los sheets vigentes ni certifican el estado de las imágenes producidas.
 
-- **Bandit:** abrigo rojo, máscara que cubre solo el rostro, dos lentes azul/cian; pelo negro rizado completamente expuesto. No casco. Mano metálica y bastón aparecen en los prompts anteriores: cotejar su estado exacto con el sheet antes de producir nuevas páginas.
+- **Bandit:** abrigo rojo, máscara que cubre solo el rostro (uso condicional: solo en combate, atmósfera hostil o estrés ambiental; se la quita/baja al cuello en lugares seguros), dos lentes azul/cian; pelo negro rizado completamente expuesto. No casco. Mano metálica y bastón aparecen en los prompts anteriores: cotejar su estado exacto con el sheet antes de producir nuevas páginas.
 - **Farsight:** pelo negro expuesto, visor violeta y chaqueta marrón.
 - **Astronauta:** casco negro integral y capa negra deteriorada. No compartir el diseño de máscara de Bandit.
-- **Mando:** rostro descubierto, armadura gris y capa/manto marrón.
+- **Mando:** humano maduro de la Tierra (desaparecido en un experimento espacial de los años 50), rostro descubierto con barba canosa y arrugas curtidas, armadura gris modular y capa/manto marrón.
 - **Pistolero:** identidad robótica western, sombrero de ala ancha, poncho oliva deteriorado, rostro metálico, ojos naranjas, revólver y brazo mecánico de arma. El habano aparece en su presentación; no imponer que fume en cada escena.
 - **Capitán:** piel azul, aletas rojizas, abrigo negro/borgoña con detalles dorados; heridas y ropa dañada por cautiverio.
 - **Aurelia:** piel gris, ojos azul pálido, cabello blanco en cordones, túnicas blancas y bastón de madera astral. Bastón fuera de su alcance hasta recuperarlo.

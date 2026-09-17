@@ -29,7 +29,7 @@ Tras cruzar un portal interdimensional desde la Tierra, **Julián (Bandit)** y *
                         ▼                                     ▼
             [ LÍNEA REGRESO / PIRATAS ]             [ LÍNEA REBELIÓN / COSMOS ]
               Líder: Bandit (Julián)                  Líder: Farsight (Mati)
-              • Mando (Veterano Tierra 60s)           • Astronauta (Sacrificio heroico)
+              • Mando (Veterano Tierra 50s)           • Astronauta (Sacrificio heroico)
               • Capitán Pirata (Contrabandista)       • Aurelia (Lectura de rutas astrales)
               • Pistolero (Mercenario sintético)      • Aliados de resistencia alienígena
               • Vexa (Mecánica de Nhalos)
@@ -45,7 +45,7 @@ Tras cruzar un portal interdimensional desde la Tierra, **Julián (Bandit)** y *
 ## 3. ESTRUCTURA DE LA SAGA EN 5 FASES
 
 - **Fase 1: Nhalos y el Contacto inicial:**  
-  Varados en el sector salvaje de Nhalos. Guiados por el misterioso **Astronauta**, reactivan una baliza de emergencia y contactan a **Mando**, quien los introduce al mundo civilizado. La *Morphos* queda en dique seco necesitando repuestos mayores de navegación.
+  Varados en el sector salvaje de Nhalos tras estrellarse. El Astronauta intenta conseguir señal sin éxito; ante la ausencia de comunicaciones, deciden abandonar la *Morphos* y cruzar Nhalos a pie a través de la densa selva y terreno hostil. Guiados por el Astronauta, alcanzan el asentamiento industrial fronterizo y dan con el taller de **Mando**, quien los saluda y recibe allí. La *Morphos* queda varada en la selva necesitando rescate y repuestos mayores de navegación.
 - **Fase 2: Incursión en Ossara (Arco Activo actual):**  
   Viajan en la nave de Mando a la luna contrabandista de Ossara para rescatar al **Capitán Pirata** (el único que conoce rutas clandestinas fuera de Aureon). Durante la fuga salvan a **Aurelia**, cautiva de alto valor imperial, desatando el bloqueo directo de la flota de **Freezer**.
 - **Fase 3: Divergencia de caminos y contratos piratas:**  
@@ -61,8 +61,9 @@ Tras cruzar un portal interdimensional desde la Tierra, **Julián (Bandit)** y *
 
 1. **La nave *Morphos* no se repara con una sola pieza mágica:** Su reconstrucción exige combustible refinado, repuestos mayores, dinero y navegación ganados beat a beat con esfuerzo tangible.
 2. **El misterio del Astronauta es intocable:** Su rostro e identidad bajo el casco negro liso jamás se muestran antes del clímax de la Fase 4.
-3. **Mando es lealtad y pragmatismo:** Cuando acompaña a Julián en la línea pirata, no traiciona a nadie; actúa como el adulto terrenal que comprende el miedo de un joven lejos de su hogar.
-4. **Freezer no se devalúa:** Su poder y crueldad son de escala absoluta. Su derrota jamás es fruto de un golpe de suerte individual, sino de la unión estratégica de ambos bandos.
+3. **Mando es lealtad y pragmatismo:** Cuando acompaña a Julián en la línea pirata, no traiciona a nadie; actúa como el adulto terrenal que comprende el miedo de un joven lejos de su hogar. Desapareció en un experimento espacial estadounidense de los años 50 y conserva esa raíz terrenal pragmática.
+4. **Regla de uso de la máscara de Bandit:** Bandit NO usa su máscara permanentemente. Se la coloca para combate, atmósferas incompatibles o tóxicas, estrés ambiental o necesidad táctica similar; se la quita o la lleva bajada al cuello en lugares seguros, interiores habitables o momentos de calma (como el asentamiento o la cabina). Su rostro y cabello negro rizado quedan plenamente visibles. La máscara cubre exclusivamente la cara, jamás forma un casco cerrado.
+5. **Freezer no se devalúa:** Su poder y crueldad son de escala absoluta. Su derrota jamás es fruto de un golpe de suerte individual, sino de la unión estratégica de ambos bandos.
 
 ---
 
@@ -72,10 +73,10 @@ Estado riguroso de cada personaje para generación de escenas y prompts de pági
 
 | Personaje | Fisonomía & Vestimenta Canónica | Capacidades y Poderes ACTIVOS | LO QUE NO TIENE AÚN (Prohibido adelantar) |
 |---|---|---|---|
-| **Bandit (Julián)** | Joven atlético, cabello negro rizado al descubierto. Abrigo rojo largo, máscara facial con dos lentes cian luminosos, respirador ambiental al cuello, botas propulsoras. | Combate ágil cuerpo a cuerpo, propulsión aérea corta con botas, **máximo 1 eco sombrío visible por acción** para distracción o soporte físico. | Prohibido teletransporte masivo o multiplicidad cuántica de ecos (reservado a desbloqueo tardío). |
+| **Bandit (Julián)** | Joven atlético, cabello negro rizado al descubierto (jamás casco). Abrigo rojo largo, máscara facial con dos lentes cian luminosos (uso condicional: solo en combate, atmósfera hostil o estrés ambiental; se la quita/baja al cuello en lugares seguros), respirador ambiental al cuello, botas propulsoras. | Combate ágil cuerpo a cuerpo, propulsión aérea corta con botas, **máximo 1 eco sombrío visible por acción** para distracción o soporte físico. | Prohibido teletransporte masivo o multiplicidad cuántica de ecos (reservado a desbloqueo tardío). Prohibido imponerle la máscara de forma permanente en calma/lugares seguros. |
 | **Farsight (Mati)** | Joven despierto, cabello negro corto al descubierto. Chaqueta marrón de piloto con cuello alzado, visor horizontal violeta brillante sobre los ojos. | Percepción sensorial de energías y campos de fuerza, descargas cinéticas breves desde brazos/visor, reflejos aumentados. | Prohibido vuelo sostenido libre o canalización cósmica a gran escala (reservada a post-muerte de Astronauta). |
 | **Astronauta** | Traje espacial táctico reforzado, capa negra desgarrada sobre los hombros, **casco negro integral liso sin visor transparente (rostro 100% oculto)**. | Veteranía en combate táctico, conocimiento profundo de las instalaciones de Aureon, resistencia física superior. | Prohibido mostrar su rostro bajo el casco, transparentar el visor o revelar su identidad. |
-| **Mando** | Humano maduro de la Tierra (estética años 60), rostro descubierto con barba canosa y arrugas curtidas. Armadura gris modular y manto marrón de viaje. | Pilotaje espacial experto, navegación táctica, uso letal de armas de fuego convencionales, criterio terrenal sereno. | No posee superpoderes alienígenas ni omnisciencia tecnológica. |
+| **Mando** | Humano maduro de la Tierra (desaparecido en un experimento espacial estadounidense de los años 50; estética retro espacial años 50 fusionada con chatarra y armadura modular de frontera), rostro descubierto con barba canosa y arrugas curtidas. Armadura gris modular y manto marrón de viaje. | Pilotaje espacial experto, navegación táctica, uso letal de armas de fuego convencionales, criterio terrenal sereno. | No posee superpoderes alienígenas ni omnisciencia tecnológica. |
 | **Pistolero** | Robot con estética western espacial: sombrero de ala ancha, rostro metálico de placas con ojos fotorreceptores naranjas, poncho color oliva desgastado. | Puntería milimétrica instantánea, revólver balístico pesado, brazo mecánico reforzado para cobertura de flancos. | No tiene poderes mágicos, hackeo remoto masivo ni manipulación de probabilidades. |
 | **Capitán Pirata** *(Cautivo en Ossara)* | Alienígena humanoide de piel azul cobalto, aletas cefálicas rojizas, abrigo largo negro/borgoña con ribetes dorados. Malherido por cautiverio. | Conocimiento de pasajes y rutas clandestinas fuera de Aureon, astucia contrabandista, disparo certero. | No es un héroe desinteresado; no garantiza rutas inmediatas a la Tierra sin cobrar su precio. |
 | **Aurelia** *(Cautiva imperial en Ossara)* | Humanoide de piel gris clara luminosa, ojos azul pálido, cabello blanco tejido en cordones largos, túnica ceremonial blanca desgarrada. | Sensibilidad innata a líneas de navegación y pasarelas astrales, estabilización de estructuras con su bastón. | No abre portales mágicos instantáneos ni manipula el tiempo a voluntad. |
